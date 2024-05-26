@@ -16,6 +16,8 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
     crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 
 <style>
     .required-field::after {
@@ -34,7 +36,7 @@
 
 <body class="fondo">
 
-    <div class="navbar sticky-top ">
+    <div class="navbar sticky-top">
         <img src="/img/logo.png" class="logo d-none d-md-block">
         <ul>
             <li><a href="#">Home</a></li>
@@ -42,6 +44,7 @@
             <li><a href="#contactanos">Contacto</a></li>
             <li><a href="#frecuentes">Preguntas frecuentes</a></li>
         </ul>
+
     </div>
 
 
