@@ -12,7 +12,7 @@
   background-position: center;
   height: 644px;
 }
-.navbar{
+.navbar sticky-top{
   width: 100%;
   margin: auto;
   padding: 35px 0;
@@ -184,8 +184,8 @@ color: #919fac!important;
     color: #000000!important;
       }
 
-------------------------------------------------------------------------
-      .popup {
+
+      /*.popup {
         display: none;
         position: fixed;
         top: 50%;
@@ -207,4 +207,9 @@ color: #919fac!important;
         top: 10px;
         right: 10px;
         cursor: pointer;
-    }
+    }*/
+
+
+
+  
+ 

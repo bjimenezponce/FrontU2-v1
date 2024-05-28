@@ -36,16 +36,16 @@
 
 <body class="fondo">
 
-    <div class="navbar sticky-top">
-        <img src="/img/logo.png" class="logo d-none d-md-block">
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#productos">Productos</a></li>
-            <li><a href="#contactanos">Contacto</a></li>
-            <li><a href="#frecuentes">Preguntas frecuentes</a></li>
-        </ul>
+<nav class="navbar sticky-top">
+    <img src="/img/logo.png" class="logo d-none d-md-block">
+    <ul class="nav-links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#productos">Productos</a></li>
+        <li><a href="#contactanos">Contacto</a></li>
+        <li><a href="#frecuentes">Preguntas frecuentes</a></li>
+    </ul>
 
-    </div>
+</nav>
 
 
 
