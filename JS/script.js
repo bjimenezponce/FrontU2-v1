@@ -1,4 +1,6 @@
-document.getElementById("contactForm").addEventListener('submit', function (e) {
+//script de validaciones
+
+  document.getElementById("contactForm").addEventListener('submit', function (e) {
     e.preventDefault();
     let warnings = false;
 
@@ -53,4 +55,6 @@ document.getElementById("contactForm").addEventListener('submit', function (e) {
         // Mostrar el modal de éxito
         $('#successModal').modal('show');
     }
+
+
 });
